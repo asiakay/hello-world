@@ -1,0 +1,39 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/asialakaygradyloves/Projects/eth/hello-world/contracts/HelloWorld.sol": {
+      "lastModificationDate": 1619177407531,
+      "contentHash": "6494621a4c9bc3fbedcd51f3245d4572",
+      "sourceName": "contracts/HelloWorld.sol",
+      "solcConfig": {
+        "version": "0.7.4",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 1000
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.7.4"
+      ],
+      "artifacts": [
+        "HelloWorld"
+      ]
+    }
+  }
+}
