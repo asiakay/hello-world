@@ -8,7 +8,9 @@ Resources used to complete this project
 - [x] [Ropsten Ethereum (rETH) Faucet](https://faucet.dimensions.network/)
 - [x] [Alchemy's Composer Tool](https://composer.alchemyapi.io/)
 - [x] [Node.js](https://nodejs.org/en/)
-- [x] [NPM - Hardhat](https://www.npmjs.com/package/hardhat) | [HardHat - configuration documentation](https://hardhat.org/config/)
+- [x] [NPM - Hardhat](https://www.npmjs.com/package/hardhat) | [Installation Overview](https://hardhat.org/getting-started/#overview) | [HardHat - configuration documentation](https://hardhat.org/config/)
+- [x] [VS Code](https://code.visualstudio.com/) | [Solidity Extension](https://marketplace.visualstudio.com/items?itemName=JuanBlanco.solidity)
+- [ ] [Ethers.js](https://github.com/ethers-io/ethers.js/)
 
 
 
@@ -25,3 +27,4 @@ Additional Resources to learn more about Ethereum development
 - [Gas and Fees](https://ethereum.org/en/developers/docs/gas/)
 - [Smart Contracts](https://ethereum.org/en/developers/docs/smart-contracts/)
 - [MetaMask Documentation](https://docs.metamask.io/guide/)
+- [Ethereum Development Tutorials](https://ethereum.org/en/developers/tutorials/)
