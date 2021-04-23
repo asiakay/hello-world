@@ -8,7 +8,7 @@ Resources used to complete this project
 - [x] [Ropsten Ethereum (rETH) Faucet](https://faucet.dimensions.network/)
 - [x] [Alchemy's Composer Tool](https://composer.alchemyapi.io/)
 - [x] [Node.js](https://nodejs.org/en/)
-- [x] [NPM - Hardhat](https://www.npmjs.com/package/hardhat)|[HardHat - configuration documentation](https://hardhat.org/config/)
+- [x] [NPM - Hardhat](https://www.npmjs.com/package/hardhat) | [HardHat - configuration documentation](https://hardhat.org/config/)
 
 
 
